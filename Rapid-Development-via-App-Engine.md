@@ -17,15 +17,18 @@
     * Earliest or Original implementaion
     * More proporietory: Use specific google APIs
     * Limited languages and access
-    * Faster instance sign-up
-    * Less expensive
+    * Faster instance sign-up. Restricted support.
+    * Less expensive.
 1. Flexible Environment
-    * Recently introduced
-    * Standardized on Docker
+    * Recently introduced.
+    * Standardized on Docker.
     * Broader language/version use
     * Slower instance sign-up 
     * More expensive
 
 #### App engine has access to SQL database serive. Photos and documents are stored in Cloud storage
-#### Many services kick in automaticaly. For example when your code is ready to deploy cloud load balancing is ready to work
-#### You can create services. You can't call code in one service from another, but you can use RESTful API or http request
+#### Many services kick in automaticaly. For example when your code is ready to deploy cloud load balancing is ready to work.
+#### You can create services. You can't call code in one service from another, but you can use RESTful API or http request.
+#### You can also have versions for this micro-services. (You can also split traffic)
+
+(Refer video for explaination on each tab)
